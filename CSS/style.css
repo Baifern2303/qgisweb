@@ -1,0 +1,38 @@
+body{
+    background-color: DEFCF9;
+}
+h1{
+    color:362FD9;
+}
+/* กำหนด hr ไข่ปลา */
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: 3C84AB;
+    border-width: 5px;
+    width: 20%;
+}
+img{
+    background-color:AEE2FF;
+}
+.Milkyway{
+    border-radius: 100%;
+}
+.FerrisWheel{
+    border-radius: 100%;
+}
+/* .circular{
+    border-radius: 100%;
+}
+
+.MilkyWay{
+    background-color:BDCDD6;
+}
+.circular{
+    border-radius: 100%;
+} */
+
+#heading{
+color: lightblue; 
+font-style: italic;
+}
